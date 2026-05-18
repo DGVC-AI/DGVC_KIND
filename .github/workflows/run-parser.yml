@@ -1,4 +1,4 @@
-name: KIND공시 - RAW데이터
+name: KIND공시 - RAW + Parse
 
 on:
   workflow_dispatch:
